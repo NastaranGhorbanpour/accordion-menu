@@ -1,6 +1,6 @@
 # accordion-menu
 ## first project whit js
-![Image](https://github.com/user-attachments/assets/5a42d878-2e5c-43eb-8f81-04cc7183847f)
+![Image](https://github.com/user-attachments/assets/762ca560-31fb-46ed-be27-738ea150c7ed)
  
 - [Demo Project](https://nastaranghorbanpour.github.io/accordion-menu/)
 - Developed by Nastaran Ghorbanpour
