@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer utilities{
+    .myh{
+        height: 50px;
+    }
+}
